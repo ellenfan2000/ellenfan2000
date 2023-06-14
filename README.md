@@ -13,7 +13,7 @@
 
 ##### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ellen-fan-30aa41176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ellen-fan-30aa41176/" width="25" /></a> 
+<a href="https://www.linkedin.com/in/ellen-fan-30aa41176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ellen-fan-30aa41176/" width="25" /></a> 
 <a href="https://instagram.com/ellenfan2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ellenfan2000" width="25" /></a>
 </p>
 
